@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Generated portfolio exports
+portfolio.txt
+portfolio.csv
+
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
